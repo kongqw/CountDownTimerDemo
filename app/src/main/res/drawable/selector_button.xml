@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 可用状态 -->
+    <item android:drawable="@drawable/shape_button_type1" android:state_enabled="true" />
+    <!-- 不可用状态 -->
+    <item android:drawable="@drawable/shape_button_type2" android:state_enabled="false" />
+</selector>
